@@ -1,2 +1,3 @@
-# search-repository
-Busca de repositórios pelo nome de usuário.
+## SearchRepo
+
+Testando meus conhecimentos com Javascript
